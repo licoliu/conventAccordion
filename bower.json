@@ -1,0 +1,15 @@
+{
+  "name": "au-proxy-conventaccordion",
+  "version": "1.0.4",
+  "main": [
+    "./js/jquery.conventAccordion.js",
+    "./css/style.css",
+    "./css/bg_noise.png",
+    "./css/bg_stitch.png"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "jquery-easing-original": "~1.3.2",
+    "jquery": "latest"
+  }
+}
